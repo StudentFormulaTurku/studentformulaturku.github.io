@@ -10,7 +10,7 @@ list_title: From the Blog
 
 Student Formula Turku on hiljattain perustettu tiimi, joka koostuu Turun yliopiston eri tiedealojen opiskelijoista. Tiimin tavoitteena on kilpailla tulevaisuudessa kansainvälisessä Formula Student-sarjassa.
 <p style="text-align: center;">
-    <img src="assets/sample.jpg" alt="Team photo" style="width: 600px;">
+    <img src="assets/sample.jpeg" alt="Team photo" style="width: 600px;">
     <img src="assets/DesignProcess.png" alt="Our design process" style="width: 600px;">
     <img src="assets/aero.jpg" alt="Recent developments" style="width: 600px;">
 </p>
