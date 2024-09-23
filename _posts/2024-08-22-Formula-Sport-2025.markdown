@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Formula Student 2025"
+date:   2024-09-23 16:15:35 +0300
+categories: jekyll update
+---
+The Formula Student 2025 is taking place in XXX in June XX, 2025!
+
+Participants are ...
+
+We are going to do ... there.
+
+Come and support us!
